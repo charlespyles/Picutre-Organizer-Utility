@@ -1,0 +1,15 @@
+C:\Users\PylesC01\source\repos\DemoProject\WPFUI\bin\Debug\WPFUI.exe.config
+C:\Users\PylesC01\source\repos\DemoProject\WPFUI\bin\Debug\WPFUI.exe
+C:\Users\PylesC01\source\repos\DemoProject\WPFUI\bin\Debug\WPFUI.pdb
+C:\Users\PylesC01\source\repos\DemoProject\WPFUI\obj\Debug\WPFUI.csprojResolveAssemblyReference.cache
+C:\Users\PylesC01\source\repos\DemoProject\WPFUI\obj\Debug\MainWindow.g.cs
+C:\Users\PylesC01\source\repos\DemoProject\WPFUI\obj\Debug\App.g.cs
+C:\Users\PylesC01\source\repos\DemoProject\WPFUI\obj\Debug\WPFUI_MarkupCompile.cache
+C:\Users\PylesC01\source\repos\DemoProject\WPFUI\obj\Debug\WPFUI_MarkupCompile.lref
+C:\Users\PylesC01\source\repos\DemoProject\WPFUI\obj\Debug\MainWindow.baml
+C:\Users\PylesC01\source\repos\DemoProject\WPFUI\obj\Debug\WPFUI.g.resources
+C:\Users\PylesC01\source\repos\DemoProject\WPFUI\obj\Debug\WPFUI.Properties.Resources.resources
+C:\Users\PylesC01\source\repos\DemoProject\WPFUI\obj\Debug\WPFUI.csproj.GenerateResource.Cache
+C:\Users\PylesC01\source\repos\DemoProject\WPFUI\obj\Debug\WPFUI.csproj.CoreCompileInputs.cache
+C:\Users\PylesC01\source\repos\DemoProject\WPFUI\obj\Debug\WPFUI.exe
+C:\Users\PylesC01\source\repos\DemoProject\WPFUI\obj\Debug\WPFUI.pdb
